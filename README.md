@@ -1,2 +1,2 @@
-# Outro jogo Jokenpo
+# Jogo Jokenpo
  
