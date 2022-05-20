@@ -1,0 +1,2 @@
+# Outro jogo Jokenpo
+ 
