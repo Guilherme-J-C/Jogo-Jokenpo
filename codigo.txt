@@ -8,7 +8,7 @@ if op == 'S':
     itens = ('TESOURA', 'PAPEL', 'PEDRA')
     comp = randint(0, 2)
     print('Então vamos lá o nome do jogo  é: Jokenpô.')
-    print('É um famoso jogo  que cosiste se escolhe pedra ou papel ou tesoura.')
+    print('É um famoso jogo  que cosiste em escolher pedra ou papel ou tesoura.')
     print('''Aqui estão as escolhas suas escolhas?')
     [0] TESOURA
     [1] PAPEL
